@@ -65,7 +65,7 @@ Whether you are searching for enterprise-grade commercial platforms (such as *Gi
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[code-server](https://github.com/coder/code-server)** [![Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers) 💻  
   **VS Code in the browser on any remote server**, MIT licensed. Run VS Code on any Linux machine or cloud VM and access it securely through any web browser. Built-in terminal, extension marketplace support, low bandwidth overhead, and seamless SSH workflow integration. 🚀

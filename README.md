@@ -65,7 +65,7 @@ Whether you are searching for enterprise-grade commercial platforms (such as *Gi
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[code-server](https://github.com/coder/code-server)** [![Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers) 💻  
   **VS Code in the browser on any remote server**, MIT licensed. Run VS Code on any Linux machine or cloud VM and access it securely through any web browser. Built-in terminal, extension marketplace support, low bandwidth overhead, and seamless SSH workflow integration. 🚀
@@ -123,7 +123,7 @@ Contributions are warmly welcome! Follow these steps to submit new cloud IDE pla
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining exact table and list structure.
-3. 🔗 Include official project title, GitHub repository link, star badge, exact price/limit details, and a clear description.
+3. 🔗 Include official project title, GitHub repository link, Stars_Badge, exact price/limit details, and a clear description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your contribution.
 
 ---
